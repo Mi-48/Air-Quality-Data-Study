@@ -1,1 +1,1 @@
-An analysis on air quality trends using correlation and regression models.
+The project demonstrates use of various data analysis techniques such as EDA, correlation analysis and regression models to study trends in Air Quality and relation between air quality predictors and target variable.
