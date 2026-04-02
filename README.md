@@ -1,4 +1,5 @@
-Problem:\
+Problem:
+
 Air pollution is a growing concern worldwide, with serious implications for public health and environmental sustainability. Islamabad, like many urban centers, faces seasonal fluctuations in air quality. Understanding these trends and the factors driving them is essential for effective monitoring and policy decisions.
 
 Approach:
@@ -14,5 +15,6 @@ Outcomes:
 - Developed regression models that provide predictive insights into PM2.5 concentrations.
 - Highlighted actionable patterns that can inform environmental monitoring and policy planning.
 
-Impact:\
+Impact:
+
 This study demonstrates how data science and statistical modeling can uncover meaningful insights into environmental challenges. The findings can support policymakers, researchers, and communities in anticipating pollution trends and designing interventions.
