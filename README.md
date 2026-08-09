@@ -80,4 +80,3 @@ Both models were trained on 70% of the combined dataset and tested on the remain
 
 - Wind speed, atmospheric pressure, and rainfall were not available in this dataset and are known PM2.5 drivers
 - A longer time series and additional monitoring stations across Islamabad would improve model generalisability
-- Deep learning approaches (LSTM) could better capture temporal dependencies in daily pollution data
